@@ -14,11 +14,13 @@ body {
   background: #282828;
   font-family: 'Montserrat', sans-serif;
   color: white;
+  display: flex;
+  justify-content: center;
 }
 
 .container {
   width: 550px;
-  margin: 0 auto;
+  margin: 0 15px;
 }
 
 header {
